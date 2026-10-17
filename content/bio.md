@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a Ph.D. student in the Department of Civil and Environmental Engineering at Rensselaer Polytechnic Institute (RPI), advised by [Prof. Xiaozheng (Sean) He](https://seanhexiaozheng.github.io).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+Prior to joining RPI, I received my B.Eng. and M.Eng. degrees from the University of Shanghai for Science and Technology.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My research focuses on quantum computing applications in transportation systems.

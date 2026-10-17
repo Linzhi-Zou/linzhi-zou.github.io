@@ -1,26 +1,28 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**The University of Example**, PhD in Transportation Engineering, *2025 - Present*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+**University of Shanghai for Science and Technology**, M.Eng. in Transportation and Traffic, *2022 - 2025*
+
+**University of Shanghai for Science and Technology**, B.Eng. in Transportation Engineering, *2017 - 2021*
 
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
-
-## Skills
-
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+**Algorithm Engineer*
+Shanghai Cando Technology Co., Ltd.
+*2021 - 2023*
+- Jining Urban Intelligent Traffic Management System (2021 - 2022)
+- Traffic control optimization for the **Wuxi National Connected Vehicle Pilot Zone** (2021 - 2022)
+- Urban congestion diagnosis with Alibaba for the **Hangzhou Asian Games** (2023)
 
 ## Awards & Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- **Road to Practitioner Program (Advanced)** - IBM Quantum (*2026*)
+- **Shanghai Outstanding Graduate, Master's** - Shanghai Municipal Education Commission (*2025*)
+- **Outstanding Graduate, Master's** - University of Shanghai for Science and Technology (*2025*)
+- **National Scholarship** - Ministry of Education of China (*2024*)
+- **First-Class Scholarship** - University of Shanghai for Science and Technology (*2024*)
+- **First-Class Scholarship** - University of Shanghai for Science and Technology (*2023*)
+- **Shanghai Outstanding Graduate, Bachelor's** - Shanghai Municipal Education Commission (*2021*)
+- **Outstanding Graduate, Bachelor's** - University of Shanghai for Science and Technology (*2021*)
+- **First-Class Scholarship** - University of Shanghai for Science and Technology (*2019*)
