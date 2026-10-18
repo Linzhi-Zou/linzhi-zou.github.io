@@ -1,0 +1,45 @@
+type = "card"
+title = "Projects"
+description = "Selected projects I work on."
+
+[[items]]
+title = "BRITE Pivot: Quantum Algorithms for Nonequilibrium Traffic Management in Connected Transportation Networks"
+subtitle = "Student Key Researcher"
+date = "Jan 2026 – Dec 2028"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2527305."
+tags = ["NSF", "Quantum Computing", "Traffic Management"]
+
+[[items]]
+title = "Excellence in Research: Building an Equitable and Sustainable Logistics System in Rural Areas with Drones"
+subtitle = "Student Research Participant"
+date = "Sep 2022 – Aug 2027"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2200506."
+tags = ["NSF", "Drone Delivery", "Rural Logistics"]
+
+[[items]]
+title = "CAREER: Robust Traffic Management for Connected Vehicle Systems"
+subtitle = "Student Research Participant"
+date = "May 2021 – Apr 2027"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2047793."
+tags = ["NSF", "Connected Vehicles", "Traffic Management"]
+
+[[items]]
+title = "Collaborative Control Method for Urban Road Intersection Groups Considering Emergencies"
+subtitle = "Student Key Researcher"
+date = "Sep 2022 – Dec 2024"
+content = "Funded by the National Natural Science Foundation of China under Grant No. 52102398."
+tags = ["NSFC", "Intersection Control", "Emergency Management"]
+
+[[items]]
+title = "Reliability Modeling and Optimal Control of Intersections Based on Evolutionary Game Theory for Multimodal Traffic Participants"
+subtitle = "Student Key Researcher"
+date = "Mar 2023 – Feb 2024"
+content = "Funded by the Science & Technology Commission of Shanghai Municipality, China, under Grant No. 23692107600."
+tags = ["Evolutionary Game Theory", "Traffic Reliability", "Multimodal Traffic"]
+
+[[items]]
+title = "Research on the Management Mechanism of Slow Traffic Mixed Traffic in High-density Built-up Areas of Shanghai"
+subtitle = "Student Key Researcher"
+date = "Sep 2022 – Feb 2023"
+content = "Funded by the Science & Technology Commission of Shanghai Municipality, China, under Grant No. 22692194300."
+tags = ["Mixed Traffic", "Active Mobility", "Urban Transportation"]

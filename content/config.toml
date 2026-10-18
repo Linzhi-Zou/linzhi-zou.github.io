@@ -61,22 +61,22 @@ target = "publications"
 href = "/publications"
 
 [[navigation]]
-title = "Teaching"
+title = "Projects"
 type = "page"
-target = "teaching"
-href = "/teaching"
+target = "projects"
+href = "/projects"
+
+[[navigation]]
+title = "Academic Activities"
+type = "page"
+target = "academic_activities"
+href = "/academic_activities"
 
 [[navigation]]
 title = "Awards"
 type = "page"
 target = "awards"
 href = "/awards"
-
-[[navigation]]
-title = "Services"
-type = "page"
-target = "services"
-href = "/services"
 
 [[navigation]]
 title = "CV"

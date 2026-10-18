@@ -1,6 +1,6 @@
 type = "card"
-title = "Services"
-description = "Professional services and community involvement."
+title = "Academic Activities"
+description = "Talks, workshops, outreach, and academic service."
 
 [[items]]
 title = "Reviewer"
