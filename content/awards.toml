@@ -4,9 +4,9 @@ description = "Honors and awards I have received."
 
 [[items]]
 title = "Road to Practitioner Program (Advanced)"
-subtitle = "IBM Quantum "
+subtitle = "IBM Quantum"
 date = "2026"
-content = "The badge earner has successfully completed the Road to Practitioner Program. Through completing this 12-week program, the earner has demonstrated an advanced proficiency in quantum computing with Qiskit. Badge earners have an in-depth knowledge of key quantum algorithms at utility-scale, including variational algorithms, quantum machine learning and Hamiltonian simulation. Earners have hands‑on capability with the latest Qiskit tools for transpilation, error mitigation and dynamic circuits."
+content = "The badge earner has successfully completed the Road to Practitioner Program. Through completing this 12-week program, the earner has demonstrated an advanced proficiency in quantum computing with Qiskit. Badge earners have an in-depth knowledge of key quantum algorithms at utility-scale, including variational algorithms, quantum machine learning and Hamiltonian simulation. Earners have hands‑on capability with the latest Qiskit tools for transpilation, error mitigation and dynamic circuits. [View credential](https://www.credly.com/badges/80d919d9-2bc9-4ab9-be7c-946752ea474a)"
 
 [[items]]
 title = "Shanghai Outstanding Graduate Award"
