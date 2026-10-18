@@ -13,7 +13,7 @@ Shanghai Cando Technology Co., Ltd.
 *2021 - 2023*
 - Jining Urban Intelligent Traffic Management System (2021 - 2022)
 - Traffic control optimization for the **Wuxi National Connected Vehicle Pilot Zone** (2021 - 2022)
-- Urban congestion diagnosis with Alibaba for the **Hangzhou Asian Games** (2023)
+- Urban congestion diagnosis for the **Hangzhou Asian Games** (2023)
 
 ## Awards & Honors
 
