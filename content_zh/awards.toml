@@ -1,27 +1,27 @@
 type = "card"
-title = "奖项"
-description = "我获得的荣誉与奖项。"
+title = "荣誉奖励"
+description = "获得的荣誉与奖项。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "Road to Practitioner Program 高级认证"
+subtitle = "IBM Quantum"
+date = "2026"
+content = "完成 IBM 为期 12 周的量子计算进阶项目，掌握基于 Qiskit 的实用规模量子算法，包括变分算法、量子机器学习与哈密顿量模拟，以及电路编译、误差缓解和动态电路等工具。"
+
+[[items]]
+title = "上海市优秀毕业生（硕士）"
+subtitle = "上海市教育委员会"
 date = "2025"
-content = "奖项说明。"
+content = "评选比例不超过 5%。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
+title = "硕士研究生国家奖学金"
+subtitle = "中华人民共和国教育部"
 date = "2024"
-content = "奖项说明。"
+content = "全国约前 3%。"
 
 [[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2023"
-content = "奖项说明。"
-
-[[items]]
-title = "示例奖项"
-subtitle = "颁发机构"
-date = "2022"
-content = "奖项说明。"
+title = "上海市优秀毕业生（本科）"
+subtitle = "上海市教育委员会"
+date = "2021"
+content = "评选比例不超过 5%。"
