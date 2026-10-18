@@ -1,6 +1,6 @@
 ## Education
 
-**The University of Example**, PhD in Transportation Engineering, *2025 - Present*
+**Rensselaer Polytechnic Institute**, PhD in Transportation Engineering, *2025 - Present*
 
 **University of Shanghai for Science and Technology**, M.Eng. in Transportation and Traffic, *2022 - 2025*
 
