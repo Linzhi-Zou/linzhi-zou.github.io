@@ -3,8 +3,43 @@ title = "项目"
 description = "我参与的部分项目。"
 
 [[items]]
-title = "示例课程"
-subtitle = "助教"
-date = "2024"
-content = "课程内容与职责简介。"
-tags = ["本科生", "计算机"]
+title = "BRITE Pivot: Quantum Algorithms for Nonequilibrium Traffic Management in Connected Transportation Networks"
+subtitle = "Student Key Researcher"
+date = "Jan 2026 – Dec 2028"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2527305."
+tags = ["NSF", "Quantum Computing", "Traffic Management"]
+
+[[items]]
+title = "Excellence in Research: Building an Equitable and Sustainable Logistics System in Rural Areas with Drones"
+subtitle = "Student Research Participant"
+date = "Sep 2022 – Aug 2027"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2200506."
+tags = ["NSF", "Drone Delivery", "Rural Logistics"]
+
+[[items]]
+title = "CAREER: Robust Traffic Management for Connected Vehicle Systems"
+subtitle = "Student Research Participant"
+date = "May 2021 – Apr 2027"
+content = "Funded by the U.S. National Science Foundation, Division of Civil, Mechanical and Manufacturing Innovation, under Grant No. CMMI-2047793."
+tags = ["NSF", "Connected Vehicles", "Traffic Management"]
+
+[[items]]
+title = "考虑突发事件的城市道路交叉口群交通协同控制方法"
+subtitle = "学生项目负责人"
+date = "9月 2022 – 10月 2024"
+content = "国家自然科学基金资助项目，项目编号：52102398。"
+tags = ["国家自然科学基金", "交叉口控制", "应急管理"]
+
+[[items]]
+title = "基于多模式交通参与者演化博弈的交叉口可靠性建模与优化控制"
+subtitle = "学生主要参与人"
+date = "3月 2023 – 2月 2024"
+content = "上海市科学技术委员会资助项目，项目编号：23692107600。"
+tags = ["演化博弈论", "交通可靠性", "多模式交通"]
+
+[[items]]
+title = "上海高密度建成区机动车慢行混合交通管理机制研究"
+subtitle = "学生项目负责人"
+date = "9月 2022 – 2月 2023"
+content = "上海市科学技术委员会资助项目，项目编号：22692194300。"
+tags = ["混合交通", "慢行交通", "城市交通"]
